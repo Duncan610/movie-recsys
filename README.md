@@ -25,5 +25,14 @@ TF-IDF Vectorization: Textual features such as movie summaries, genres, and cast
 
 Cosine Similarity: Cosine similarity is utilized to measure the similarity between user preferences and movie features represented as TF-IDF vectors. It computes the cosine of the angle between these vectors in a multi-dimensional space, enabling the system to recommend movies that closely match user interests and preferences.
 
+**Future Improvements**
+
+Future enhancements to the movie recommendation system could include integrating real-time user feedback for dynamic updates, incorporating sentiment analysis from user reviews for deeper insights, and deploying advanced deep learning models for improved recommendation accuracy.
+
+**Contributing**
+
+Contributions to the project are welcome! To contribute, fork the repository, create a new branch, make your enhancements, and submit a pull request. Please follow the coding standards and include appropriate documentation for your changes.
+
+
 
 
